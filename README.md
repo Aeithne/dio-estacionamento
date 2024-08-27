@@ -21,11 +21,11 @@ Este projeto em C# simula um sistema de estacionamento simples, permitindo adici
 
 **Estrutura do projeto:**
 
-   **Estacionamento.cs:** Contém a classe principal do sistema, responsável por gerenciar os veículos.
-   **Veiculo.cs:** Define a classe Veiculo, representando um veículo estacionado.
-   **Program.cs:** Ponto de entrada do programa, onde o menu principal é implementado.
+**Estacionamento.cs:** Contém a classe principal do sistema, responsável por gerenciar os veículos.
+**Veiculo.cs:** Define a classe Veiculo, representando um veículo estacionado.
+**Program.cs:** Ponto de entrada do programa, onde o menu principal é implementado.
 
 **Tecnologias utilizadas:**
 
-   **C#:** Linguagem de programação.
-   **.NET:** Framework utilizado para desenvolvimento.
+**C#:** Linguagem de programação.
+**.NET:** Framework utilizado para desenvolvimento.
