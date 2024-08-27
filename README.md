@@ -14,8 +14,8 @@ Este projeto em C# simula um sistema de estacionamento simples, permitindo adici
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/Aeithne/dio-estacionamento.git
-  ´´´
+   git clone https://github.com/Aeithne/dio-estacionamento.git´´´
+   
 2. **Abra o projeto:** Abra a solução do projeto no seu IDE C# preferida (Visual Studio, Visual Studio Code, etc.).
 3. **Execute o programa:** Execute o programa principal para iniciar o sistema de estacionamento.
 4. **Interaja com o menu:** Siga as instruções do menu para adicionar, remover ou listar veículos.
